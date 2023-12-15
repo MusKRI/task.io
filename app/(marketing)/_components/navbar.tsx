@@ -12,9 +12,9 @@ export const Navbar = () => {
           <Button size="sm" variant="outline" asChild>
             <Link href="/sign-in">Login</Link>
           </Button>
-          <Button size="sm" asChild>
+          {/* <Button size="sm" asChild>
             <Link href="/sign-up">Get Task.io for free</Link>
-          </Button>
+          </Button> */}
         </div>
       </div>
     </div>

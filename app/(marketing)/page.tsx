@@ -45,9 +45,9 @@ const MarketingPage = () => {
         high rises to the home office, the way your team works is unique -
         accomplish it all with Task.io.
       </div>
-      <Button className="mt-6" size="lg" asChild>
+      {/* <Button className="mt-6" size="lg" asChild>
         <Link href="/sign-up">Get Task.io for free</Link>
-      </Button>
+      </Button> */}
     </div>
   );
 };
